@@ -1,0 +1,95 @@
+@font-face {
+	font-family: 'Oswald';
+	src: url('Oswald-Light.ttf');
+}
+
+body {
+	min-width: 750px;
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(fond.png);
+}
+
+.logogreen {
+	width: 150px;
+	height: 100px;
+	padding-left: 50px;
+	padding-top: 25px;
+}
+
+nav, h1 {
+	font-family: 'Oswald';
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+h1 {
+	color: #bbc92e;
+	padding-top: 10px;
+
+}
+
+.lien {
+	margin-right: 50px;
+}
+
+.liens {
+margin-right:40px;
+float: right;
+margin-top: 60px;
+}
+
+nav {
+	background-color: #bbc92e; 
+	height: 150px; 
+	}
+
+.photo {
+	float: left;
+	width: 200px;
+	height: 85px;
+	padding-right: 10px;
+}
+
+.fa-pagelines{
+	color: #bbc92e;
+	margin-right: 5px;
+}
+
+section {
+	background-color: white;
+	padding: 30px;
+	padding-bottom: 70px;
+}
+
+.read { 
+	float: right; 
+	background-color: #bbc92e;
+	color: white;
+	width: 90px;
+	height: 25px;
+	text-align: center;
+	margin-top: 20px;
+	font-family: 'Arial';
+	font-size: 0.9em;
+	padding-top: 10px;
+}
+
+.w3
+{
+	height: 40px;
+}
+
+footer {
+
+	font-size: 10px;
+	line-height: normal;
+	text-indent: normal;
+	text-align: center; 
+	}
+
+.en-dessous {
+	clear: both;
+}
+	
